@@ -12,14 +12,12 @@
 </head>
 
 <body>
-  <div id="app">
-    <button>test</button>
-  </div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'CS学习笔记',
       //  仓库
-      repo: 'https://github.com/docsifyjs/docsify/',
+      repo: 'https://github.com/Huang-WeiFu/note4cs',
       //  侧边栏
       loadSidebar: true,
       //  导航栏
@@ -28,10 +26,14 @@
       coverpage: true,
       //  小屏设备下合并导航栏到侧边栏
       mergeNavbar: true,
+      //  字数统计
+      count: {
+        countable: true,
+        fontsize: '1.0em',
+        color: 'rgb(23,115,212)',
+        language: 'chinese'
+      }
     }
-
-    // var changeTheme = document.getElementById("themeChange")
-    // changeTheme.href="";
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -43,6 +45,13 @@
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/components/prism-django.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/components/prism-go.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/components/prism-sql.js"></script>
+  <!-- 允许复制到剪贴板 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- 分页插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>
 
 </html>

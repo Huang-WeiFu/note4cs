@@ -21,8 +21,8 @@
   - 爬虫
     - 基础
       - [说明](/04Python/03Spider/README.md)
-      - [urllib库的基本使用](/04Python/03Spider/2.1urllib库的基本使用.md)
-      - [request库的基本使用](/04Python/03Spider/2.2request库的基本使用.md)
+      - [urllib库的基本使用](/04Python/03Spider/2.1urllib%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
+      - [request库的基本使用](/04Python/03Spider/2.2request%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
   - 数据分析
     - numpy
     - pandas
