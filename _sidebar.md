@@ -3,6 +3,7 @@
   - 数据结构
   - 操作系统
   - 计算机网络
+    - [说明](/01CS/04network/README.md)
 - C
 - Java
   - 语法
@@ -26,6 +27,7 @@
     - numpy
     - pandas
 - Golang
+  - [说明](/05Golang/README.md)
 - DateBase
   - mysql必知必会
   - 高性能Mysql

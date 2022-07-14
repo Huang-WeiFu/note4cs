@@ -2,3 +2,5 @@
   - mysql必知必会
   - 高性能Mysql
   - 调优
+  - redis
+  - mongodb
