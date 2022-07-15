@@ -30,6 +30,9 @@
   - [说明](/05Golang/README.md)
 - DateBase
   - mysql必知必会
+    - [说明](/06DateBase/01MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/README.md)
+    - [数据搭建](/06DateBase/01MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/01%E6%95%B0%E6%8D%AE%E5%BA%93%E6%90%AD%E5%BB%BA.md)
+    - [查询](/06DateBase/01MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/02%E6%9F%A5%E8%AF%A2.md)
   - 高性能Mysql
   - 调优
 - Linux
